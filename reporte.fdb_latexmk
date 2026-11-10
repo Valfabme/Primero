@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1794352211.99937 "/home/valfabme/Documents/Servicio Social/Reportes/Primero/reporte.tex" "reporte.pdf" "reporte" 1794352213.92474 0
-  "/home/valfabme/Documents/Servicio Social/Reportes/Primero/reporte.tex" 1794352211.7882 4811 af663a8e654fdfbf9dc88b92a351095d ""
+["pdflatex"] 1794353647.56642 "/home/valfabme/Documents/Servicio Social/Reportes/Primero/reporte.tex" "reporte.pdf" "reporte" 1794353649.62746 0
+  "/home/valfabme/Documents/Servicio Social/Reportes/Primero/reporte.tex" 1794353647.30259 4791 fc013905c7f2c3395e4498a2b57fddaf ""
   "/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1775415801 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc" 1775415801 3486 c7eadf5dcc57b3b2d11736679f6636ba ""
   "/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc" 1775415801 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
@@ -222,11 +222,12 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1775415801 43569 fd570f2fa160877d211e859f687312ba ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1794278063 5385779 47c0c393a77fd4a098bacfd57d66b88a ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1794351535 2349408 f9e9b59818308de79d230046f6f5c795 ""
+  "Figures/Qr.png" 1794353608.26869 13207 7952a5a88cf339cf99c436bace2b8967 ""
   "Figures/VO.png" 1794352012.83922 460116 b2633f960d2fc1542c14d01ffbbded8d ""
-  "reporte.aux" 1794352213.82902 1415 bc6133898a93ff10e50251f37813ce2c "pdflatex"
-  "reporte.nav" 1794352213.8302 747 0e276c0940a342ad38699132b0e9aa8d "pdflatex"
-  "reporte.out" 1794352212.68052 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "reporte.tex" 1794352211.7882 4811 af663a8e654fdfbf9dc88b92a351095d ""
+  "reporte.aux" 1794353649.53174 1415 bc6133898a93ff10e50251f37813ce2c "pdflatex"
+  "reporte.nav" 1794353649.53285 747 0e276c0940a342ad38699132b0e9aa8d "pdflatex"
+  "reporte.out" 1794353648.29364 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "reporte.tex" 1794353647.30259 4791 fc013905c7f2c3395e4498a2b57fddaf ""
   (generated)
   "reporte.aux"
   "reporte.log"

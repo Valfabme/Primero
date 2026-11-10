@@ -416,6 +416,10 @@ INPUT /usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc
 INPUT /usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc
 INPUT /usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc
 INPUT /usr/share/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
+INPUT /home/valfabme/Documents/Servicio Social/Reportes/Primero/Figures/Qr.png
+INPUT /home/valfabme/Documents/Servicio Social/Reportes/Primero/Figures/Qr.png
+INPUT /home/valfabme/Documents/Servicio Social/Reportes/Primero/Figures/Qr.png
+INPUT /home/valfabme/Documents/Servicio Social/Reportes/Primero/Figures/Qr.png
 OUTPUT reporte.nav
 OUTPUT reporte.toc
 OUTPUT reporte.snm
